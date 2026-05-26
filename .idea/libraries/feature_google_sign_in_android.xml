@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="feature-google_sign_in_android">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/todo_app/build/google_sign_in_android/intermediates/merged_java_res/debug/mergeDebugJavaResource/feature-google_sign_in_android.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
