@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classes6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/todo_app/build/cloud_firestore/intermediates/aar_main_jar/debug/syncDebugLibJars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
