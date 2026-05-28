@@ -58,6 +58,11 @@ flutter run
 
 ---
 
+## Download APK
+
+[Download Latest APK](https://github.com/vinitsonii/flutter-todo-app/releases/download/ToDo_v1.0/ToDo-v1.0.apk)
+
+
 ## 📌 Future Improvements
 
 - User authentication
